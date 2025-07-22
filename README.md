@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mgachiee" alt="mgachiee" /></a> </p>
 
-- 🔭 I’m currently working on [Personal Web Portfolio](https://mgachiee.vercel.app)
+- 🔭 I’m currently working on SeedSync
 
-- 🌱 I’m currently learning **ReactJS**
+- 🌱 I’m currently learning **React.js | Node.js | Typescript**
 
-- 👨‍💻 All of my projects are available at [Mark Allen G. Bobadilla](https://mgachiee.github.io/markallengbobadilla/)
+- 👨‍💻 All of my projects are available at [mgachiee](https://mgachiee.vercel.app)
 
 - 📫 How to reach me **markallengatchalian@gmail.com**
 
