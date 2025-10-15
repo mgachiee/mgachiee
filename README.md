@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Mark Allen</h1>
-<h3 align="center">An aspiring Software/Data Engineer from PUP Manila.</h3>
+<h3 align="center">Junior Computer Science | Data Science | IT Intern @ProjectEngage Inc. | Associate AI Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mgachiee&label=Profile%20views&color=0e75b6&style=flat" alt="mgachiee" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mgachiee" alt="mgachiee" /></a> </p>
 
-- 🔭 I’m currently working on ProjectEngage Inc.
+- 🔭 I’m currently working on HRIS and Payroll.
 
 - 🌱 I’m currently learning **React.js | Node.js | Typescript**
 
