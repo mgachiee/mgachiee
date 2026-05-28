@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React-Native**
 
-- 👨‍💻 All of my projects are available at [mgachiee](https://markallenbobadilla.vercel.app)
+- 👨‍💻 All of my projects are available at [markallenbobadilla](https://markallenbobadilla.vercel.app)
 
 - 📫 How to reach me **markallengatchalian@gmail.com**
 
