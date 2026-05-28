@@ -75,6 +75,9 @@
   <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactnative/reactnative-original-wordmark.svg" alt="react-native" width="40" height="40"/>
   </a>
+  <a href="https://expo.dev/" target="_blank" rel="noreferrer">
+    <img src="https://api.iconify.design/simple-icons:expo.svg?color=%23000000" alt="expo" width="40" height="40"/>
+  </a>
   <a href="https://vite.dev/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" alt="vite" width="40" height="40"/>
   </a>
