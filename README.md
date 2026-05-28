@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on Lumis.
 
-- 🌱 I’m currently learning **AWS AI Practitioner**
+- 🌱 I’m currently learning **React-Native**
 
 - 👨‍💻 All of my projects are available at [mgachiee](https://markallenbobadilla.vercel.app)
 
