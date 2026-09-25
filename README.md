@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mark Allen</h1>
-<h3 align="center">Junior Computer Science | Data Science | Associate AI Engineer</h3>
+<h3 align="center">Senior Computer Science | Data Science | Associate AI Engineer</h3>
 
 <p align="center"> <img src="https://github-profile-repo.vercel.app/?username=mgachiee&theme=light" alt="mgachiee" /> </p>
 
