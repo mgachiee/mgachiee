@@ -1,133 +1,87 @@
-<h1 align="center">Hi 👋, I'm Mark Allen</h1>
-<h3 align="center">Senior Computer Science | Data Science | Associate AI Engineer</h3>
+<div align="center">
+  <h1>Hi 👋, I'm Mark Allen</h1>
+  <h3>Software & AI Engineering | Full-Stack Development | BSCS (Data Science)</h3>
+  <p>Fourth-year CS student building practical AI-powered applications, full-stack systems, and responsible AI workflows.</p>
 
-<p align="center"> <img src="https://github-profile-repo.vercel.app/?username=mgachiee&theme=light" alt="mgachiee" /> </p>
+  <p>
+    <a href="https://markallenbobadilla.dev" target="_blank">
+      <img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+    </a>
+    <a href="https://linkedin.com/in/markallenbobadilla" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="mailto:markallengatchalian@gmail.com">
+      <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+  </p>
+</div>
 
-- 🔭 I’m currently working on Lumis.
+---
 
-- 🌱 I’m currently learning **React-Native**
+### About Me
+- 🎓 **BS in Computer Science (Data Science)** at Polytechnic University of the Philippines *(Expected 2027)*
+- 🔭 Currently finalizing **[HARMONI (v1.1.2-beta)](https://harmoni-pmg.vercel.app)** and developing **[Lumis (Private Beta)](YOUR_LUMIS_SHOWCASE_URL)**
+- 💼 Previously engineered full-stack & ML systems as a Software/IT Developer Intern at **LexMeet Inc.** and **Project Engage Inc.**
+- 🌐 Explore my work at **[markallenbobadilla.dev](https://markallenbobadilla.dev)**
+- 📫 Reach me at **[markallengatchalian@gmail.com](mailto:markallengatchalian@gmail.com)**
 
-- 👨‍💻 All of my projects are available at [markallenbobadilla](https://markallenbobadilla.vercel.app)
+---
 
-- 📫 How to reach me **markallengatchalian@gmail.com**
+### 🚀 Featured Projects
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/markallenbobadilla" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="markallenbobadilla" height="30" width="40" /></a>
-<a href="https://fb.com/markallengbobadilla" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="markallen.bobadilla.08" height="30" width="40" /></a>
-<a href="https://instagram.com/http.mgachiee" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="http.mgachiee" height="30" width="40" /></a>
-</p>
+| Project | Overview & Architecture | Links |
+| :--- | :--- | :--- |
+| **HARMONI** *(v1.1.2-beta • Thesis)* | Real-time procedural affective music engine translating live gameplay emotion (Valence & Arousal) into an adaptive score via a 5-stage hybrid rule + Markov chain pipeline and **Python TCP sidecar**. *(Proposal & Tool Defenses completed; Final Defense upcoming.)*<br>**Stack:** `Python` `TypeScript` `Next.js` `Markov Chains` `TCP Sidecar` `Godot` | [Live Demo](https://harmoni-pmg.vercel.app) • [Research & Status](https://harmoni-pmg.vercel.app/about) |
+| **Lumis** *(Private Beta)* | AI-powered Android productivity app featuring natural-language **Quick Capture** task parsing, **Lumis Insights** semantic task retrieval, and an on-demand **Daily Brief** with deterministic fallback.<br>**Stack:** `React Native` `Expo` `TypeScript` `NativeWind` `Vercel AI SDK` `Microsoft Foundry` `Cloudflare Workers AI` `Supabase` `Express.js` | [Product Showcase](YOUR_LUMIS_SHOWCASE_URL) |
+| **ReviewBuddy** | AI-powered study companion (**"Ruby"**) that dynamically generates context-aware quizzes at subject and module levels, backed by real-time analytics dashboards and competitive leaderboards.<br>**Stack:** `React.js` `Tailwind CSS` `Express.js` `FastAPI` `LangChain` `Hugging Face` `PostgreSQL` `Supabase` | [Product Showcase](YOUR_REVIEWBUDDY_URL) |
 
-<h3 align="left">Languages and Tools:</h3>
+---
 
-<h4 align="left">Programming Languages</h4>
-<p align="left">
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/sql/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" alt="sql" width="40" height="40"/>
-  </a>
-</p>
+### 🛠️ Tech Stack
 
-<h4 align="left">Backend Development</h4>
-<p align="left">
-  <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
-  </a>
-  <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" alt="express" width="40" height="40"/>
-  </a>
-  <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" alt="fastapi" width="40" height="40"/>
-  </a>
-  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/>
-  </a>
-  <a href="https://supabase.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" alt="supabase" width="40" height="40"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/>
-  </a>
-  <a href="https://www.pinecone.io/" target="_blank" rel="noreferrer">
-    <img src="https://api.iconify.design/logos:pinecone.svg" alt="pinecone" width="40" height="40"/>
-  </a>
-  <a href="https://en.wikipedia.org/wiki/NoSQL" target="_blank" rel="noreferrer">
-    <img src="https://api.iconify.design/fluent:database-lightning-20-filled.svg?color=%23333333" alt="nosql" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Glossary/REST" target="_blank" rel="noreferrer">
-    <img src="https://api.iconify.design/eos-icons:api.svg?color=%23007acc" alt="rest-api" width="40" height="40"/>
-  </a>
-</p>
+**Programming Languages**  
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-<h4 align="left">Frontend Development</h4>
-<p align="left">
-  <a href="https://react.dev/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="react" width="40" height="40"/>
-  </a
-  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactnative/reactnative-original-wordmark.svg" alt="react-native" width="40" height="40"/>
-  </a>
-  <a href="https://expo.dev/" target="_blank" rel="noreferrer">
-    <img src="https://api.iconify.design/simple-icons:expo.svg?color=%23000000" alt="expo" width="40" height="40"/>
-  </a>
-  <a href="https://vite.dev/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" alt="vite" width="40" height="40"/>
-  </a>
-  <a href="https://tanstack.com/query/latest" target="_blank" rel="noreferrer">
-    <img src="https://api.iconify.design/logos:react-query.svg" alt="tanstack-query" width="40" height="40"/>
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="tailwindcss" width="40" height="40"/>
-  </a>
-</p>
+**Backend**  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-1E293B?style=for-the-badge&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=black)
+![NoSQL](https://img.shields.io/badge/NoSQL-00ED64?style=for-the-badge&logo=databricks&logoColor=black)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-1E293B?style=for-the-badge&logo=pinecone&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-02569B?style=for-the-badge&logo=fastapi&logoColor=white)
 
-<h4 align="left">DevOps & Cloud</h4>
-<p align="left">
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="git" width="40" height="40"/>
-  </a>
-  <a href="https://github.com/features/actions" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" alt="github-actions" width="40" height="40"/>
-  </a>
-  <a href="https://vercel.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg" alt="vercel" width="40" height="40"/>
-  </a>
-  <a href="https://render.com/" target="_blank" rel="noreferrer">
-    <img src="https://api.iconify.design/simple-icons:render.svg?color=%2346E3B7" alt="render" width="40" height="40"/>
-  </a>
-  <a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" alt="azure" width="40" height="40"/>
-  </a>
-</p>
+**Frontend**  
+![React.js](https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-1B1F23?style=for-the-badge&logo=expo&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![TanStack Query](https://img.shields.io/badge/TanStack%20Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![NativeWind](https://img.shields.io/badge/NativeWind-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
-<h4 align="left">AI & Data Science</h4>
-<p align="left">
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
-  </a>
-  <a href="https://numpy.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/>
-  </a>
-  <a href="https://www.langchain.com/" target="_blank" rel="noreferrer">
-    <img src="https://api.iconify.design/simple-icons:langchain.svg?color=%231C3C3A" alt="langchain" width="40" height="40"/>
-  </a>
-  <a href="https://openai.com/" target="_blank" rel="noreferrer">
-    <img src="https://api.iconify.design/logos:openai-icon.svg" alt="openai" width="40" height="40"/>
-  </a>
-  <a href="https://deepmind.google/technologies/gemini/" target="_blank" rel="noreferrer">
-    <img src="https://api.iconify.design/logos:google-gemini.svg" alt="gemini" width="40" height="40"/>
-  </a>
-  <a href="https://huggingface.co/" target="_blank" rel="noreferrer">
-    <img src="https://api.iconify.design/simple-icons:huggingface.svg?color=%23FFD21E" alt="huggingface" width="40" height="40"/>
-  </a>
-</p>
+**DevOps & Cloud**  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-111827?style=for-the-badge&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
 
-<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mgachiee&show_icons=true&locale=en" alt="mgachiee" /></p> -->
+**AI & Data Science**  
+![Vercel AI SDK](https://img.shields.io/badge/Vercel%20AI%20SDK-111827?style=for-the-badge&logo=vercel&logoColor=white)
+![Microsoft Foundry](https://img.shields.io/badge/Microsoft%20Foundry-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Cloudflare Workers AI](https://img.shields.io/badge/Cloudflare%20Workers%20AI-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+![OpenAI API](https://img.shields.io/badge/OpenAI%20API-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Gemini API](https://img.shields.io/badge/Gemini%20API-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
