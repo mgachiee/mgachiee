@@ -20,7 +20,7 @@
 
 ### About Me
 - 🎓 **BS in Computer Science (Data Science)** at Polytechnic University of the Philippines *(Expected 2027)*
-- 🔭 Currently finalizing **[HARMONI (v1.1.2-beta)](https://harmoni-pmg.vercel.app)** and developing **[Lumis (Private Beta)](YOUR_LUMIS_SHOWCASE_URL)**
+- 🔭 Currently finalizing **[HARMONI (v1.1.2-beta)](https://harmoni-pmg.vercel.app)** and developing **[Lumis (Private Beta)](https://appbuildersph.com/apps/lumis)**
 - 💼 Previously engineered full-stack & ML systems as a Software/IT Developer Intern at **LexMeet Inc.** and **Project Engage Inc.**
 - 🌐 Explore my work at **[markallenbobadilla.dev](https://markallenbobadilla.dev)**
 - 📫 Reach me at **[markallengatchalian@gmail.com](mailto:markallengatchalian@gmail.com)**
@@ -32,8 +32,8 @@
 | Project | Overview & Architecture | Links |
 | :--- | :--- | :--- |
 | **HARMONI** *(v1.1.2-beta • Thesis)* | Real-time procedural affective music engine translating live gameplay emotion (Valence & Arousal) into an adaptive score via a 5-stage hybrid rule + Markov chain pipeline and **Python TCP sidecar**. *(Proposal & Tool Defenses completed; Final Defense upcoming.)*<br>**Stack:** `Python` `TypeScript` `Next.js` `Markov Chains` `TCP Sidecar` `Godot` | [Live Demo](https://harmoni-pmg.vercel.app) • [Research & Status](https://harmoni-pmg.vercel.app/about) |
-| **Lumis** *(Private Beta)* | AI-powered Android productivity app featuring natural-language **Quick Capture** task parsing, **Lumis Insights** semantic task retrieval, and an on-demand **Daily Brief** with deterministic fallback.<br>**Stack:** `React Native` `Expo` `TypeScript` `NativeWind` `Vercel AI SDK` `Microsoft Foundry` `Cloudflare Workers AI` `Supabase` `Express.js` | [Product Showcase](YOUR_LUMIS_SHOWCASE_URL) |
-| **ReviewBuddy** | AI-powered study companion (**"Ruby"**) that dynamically generates context-aware quizzes at subject and module levels, backed by real-time analytics dashboards and competitive leaderboards.<br>**Stack:** `React.js` `Tailwind CSS` `Express.js` `FastAPI` `LangChain` `Hugging Face` `PostgreSQL` `Supabase` | [Product Showcase](YOUR_REVIEWBUDDY_URL) |
+| **Lumis** *(Private Beta)* | AI-powered Android productivity app featuring natural-language **Quick Capture** task parsing, **Lumis Insights** semantic task retrieval, and an on-demand **Daily Brief** with deterministic fallback.<br>**Stack:** `React Native` `Expo` `TypeScript` `NativeWind` `Vercel AI SDK` `Microsoft Foundry` `Cloudflare Workers AI` `Supabase` `Express.js` | [Product Showcase](https://appbuildersph.com/apps/lumis) |
+| **ReviewBuddy** | AI-powered study companion (**"Ruby"**) that dynamically generates context-aware quizzes at subject and module levels, backed by real-time analytics dashboards and competitive leaderboards.<br>**Stack:** `React.js` `Tailwind CSS` `Express.js` `FastAPI` `LangChain` `Hugging Face` `PostgreSQL` `Supabase` | [Product Showcase](https://drive.google.com/file/d/1eBHzUpBk_lr1E0CC9-4m8Mwxj9ybTFA3/view) |
 
 ---
 
